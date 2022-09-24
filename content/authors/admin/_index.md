@@ -64,6 +64,6 @@ Hi! I'm Bohan HU, a first-year Ph.D. student from Microelectronics Thrust, Funct
 
 I'm feeling lucky to be in the "golden decades" of computer architecture research and have been self-motivated to explore technologies in microprocessors as well as novel architectures. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 Besides computer architecture, I enjoy Rock music, and I'm a big fan of the alternative rock band "Omnipotent Youth Society."
