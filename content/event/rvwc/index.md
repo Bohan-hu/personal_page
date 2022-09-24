@@ -42,7 +42,7 @@ featured: false
 #url_code: ''
 #url_pdf: ''
 
-url_slides: 'static/uploads/rvwc2021.pptx'
+url_slides: 'uploads/rvwc2021.pptx'
 url_video: 'https://www.bilibili.com/video/BV1564y1z7Xv/?spm_id_from=333.337.search-card.all.click&vd_source=7122cb248a7a21c0a260938d9f53b381'
 
 # Markdown Slides (optional).
